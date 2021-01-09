@@ -1,0 +1,27 @@
+.banner-area {
+    display: block;
+    height: 780px;
+    width: 100%;
+    margin-top: -72px;
+    overflow: hidden;
+}
+
+.video {
+    width: 2560px;
+    height: 780px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -1280px;
+    z-index: 1;
+    object-fit: contain;
+}
+
+.content-section-top {
+    padding-top: 7.5rem!important;
+  }
+
+.video-show {
+    padding-left: 0px!important;
+    padding-right: 0px!important
+}
